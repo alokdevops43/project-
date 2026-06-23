@@ -4,7 +4,6 @@ A simple and interactive Quiz Competition web application built using HTML, CSS,
 
 ## Live link
 
-
 https://alokdevops43.github.io/project-/
 
 ## 🚀 Features
@@ -33,6 +32,7 @@ quiz-competition/
 ├── style.css
 ├── script.js
 └── README.md
+
 ```
 
 
